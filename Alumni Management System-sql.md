@@ -7,7 +7,7 @@
 * Version: 1.0     
 
 * Vulnerable file:manage_event.php    
-![image]()  
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/manage_event-1.png)  
 
 * Sql Injection   
-![image]()  
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/sql.png)  
