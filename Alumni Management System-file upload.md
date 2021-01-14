@@ -7,13 +7,13 @@
 * Version: 1.0   
 
 * Vulnerable file:manage_event.php  
-![image]()  
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/manage_event.png)  
 
 * Remote Code Execution:  
-![image]()    
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/upfile.png)    
 
-![image]()    
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/rce.png)    
 
 * Get shell:  
 
-![image]()   
+![image](https://github.com/BigTiger2020/Alumni-Management-System/blob/main/shell.png)   
